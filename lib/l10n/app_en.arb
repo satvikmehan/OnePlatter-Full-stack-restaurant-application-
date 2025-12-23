@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "hello": "Hello",
+  "@hello": {
+    "description": "Greeting for the user"
+  },
+  "cart": "Cart",
+  "settings": "Settings"
+}

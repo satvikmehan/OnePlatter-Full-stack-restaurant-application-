@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439890686878",
+    "project_id": "oneplatter-94b18",
+    "storage_bucket": "oneplatter-94b18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439890686878:android:1b47fe5d4c6a9701d9dc8f",
+        "android_client_info": {
+          "package_name": "com.example.onebanc_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDro0PROvPOrOAgjMovacjM45vSqCUlm0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
